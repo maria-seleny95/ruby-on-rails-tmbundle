@@ -1,1 +1,1 @@
-Update H1 in Explorer API docs (#7813)
+Add estimate_speed(region_color) parameter (#8285)
