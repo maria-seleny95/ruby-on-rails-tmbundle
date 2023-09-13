@@ -1,1 +1,1 @@
-Tracker: clean up GMC (#8003)
+Add Amazon Sagemaker Docs integrations page (#7293)
