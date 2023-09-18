@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+Add OBB benchmarks to CI (#7777)
