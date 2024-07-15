@@ -1,1 +1,1 @@
-Add NCNN Docs Integrations Page (#8562)
+Avoid creating -hub dir without processing images (#8334)
